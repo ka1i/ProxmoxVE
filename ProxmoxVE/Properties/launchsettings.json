@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "ProxmoxVE (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "ProxmoxVE (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
